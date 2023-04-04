@@ -1,6 +1,7 @@
 /*
 * [GradeCalculator].java
-* Author: [Ryan Cullen]
+* Author: [Faraz Sunil]
+* Date: 09/30/2022
 * Statement of Academic Honesty:
 *
 * The following code represents my own work. I have neither
